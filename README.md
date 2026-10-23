@@ -1,5 +1,6 @@
 # SMART RAILWAY: Reservation & Passenger Intelligence System
 **College DBMS + Full Stack + ML + Cybersecurity Capstone Project**
+🌐 **Live Website:** [RailConnect – Railway Reservation System](https://rail-connect-pi.vercel.app/)
 
 ## 1. Project Overview & Problem Statement
 Modern railway operations require unified systems that guarantee **ACID transaction safety**, concurrency protection against simultaneous seat reservations, real-time geographic route tracking, and predictive passenger intelligence. **SMART RAILWAY** is an enterprise-grade full-stack transportation platform engineered using **PostgreSQL 16 (Cloud SQL)**, **Express.js**, **React 19**, **Google Maps JavaScript API**, and **Statistical Machine Learning**.
